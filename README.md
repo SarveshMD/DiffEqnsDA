@@ -32,7 +32,6 @@ git clone https://github.com/SarveshMD/DiffEqnsDA.git
 cd DiffEqnsDA
 git checkout -b your-name       # create your own branch
 git push -u origin your-name    # Push branch to GitHub
-
 ```
 
 ## Before adding your work
