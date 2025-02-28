@@ -48,8 +48,8 @@ git merge main             # Merge the latest changes into your branch
 Move the photos or pdfs of your questions into the folder.
 
 ```
-git checkout main     # switch to main
-git pull origin main  # Ensure up-to-date main branch
-git merge your-name   # merge your work into main
-git push origin main  # push to github
+git checkout main          # switch to main
+git pull origin main       # Ensure up-to-date main branch
+git merge your-name        # merge your work into main
+git push origin main       # push to github
 ```
