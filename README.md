@@ -22,8 +22,8 @@ _to help us be less cooked_
 
 -   [ ] Q1.b
 -   [ ] Q4
--   [ ] Q7
--   [ ] Q10
+-   [x] Q7
+-   [x] Q10
 
 ## Setup
 
