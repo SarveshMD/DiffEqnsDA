@@ -21,7 +21,7 @@ _to help us be less cooked_
 ### Adhithya
 
 -   [ ] Q1.b
--   [ ] Q4
+-   [x] Q4
 -   [x] Q7
 -   [x] Q10
 
