@@ -16,7 +16,7 @@ _to help us be less cooked_
 -   [x] Q1.c
 -   [x] Q3
 -   [x] Q6
--   [ ] Q9
+-   [x] Q9
 
 ### Adhithya
 
