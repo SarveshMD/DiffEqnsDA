@@ -20,7 +20,7 @@ _to help us be less cooked_
 
 ### Adhithya
 
--   [ ] Q1.b
+-   [x] Q1.b
 -   [x] Q4
 -   [x] Q7
 -   [x] Q10
