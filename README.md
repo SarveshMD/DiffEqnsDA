@@ -7,7 +7,7 @@ _to help us be less cooked_
 ### Sarvesh
 
 -   [x] Q1.a
--   [ ] Q2
+-   [x] Q2
 -   [ ] Q5
 -   [ ] Q8
 
