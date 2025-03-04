@@ -8,7 +8,7 @@ _to help us be less cooked_
 
 -   [x] Q1.a
 -   [x] Q2
--   [ ] Q5
+-   [x] Q5
 -   [ ] Q8
 
 ### Dharnish
